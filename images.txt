@@ -1,1 +1,1 @@
-mysql:5.7
+cooderl/wewe-rss-sqlite:latest
