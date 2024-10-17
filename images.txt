@@ -1,1 +1,1 @@
-docker.io/library/python:3.11-slim
+docker.io/library/node:20-slim
