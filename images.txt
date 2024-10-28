@@ -1,5 +1,1 @@
-postgres:15-alpine
-redis:6-alpine
-ubuntu/squid:latest
-nginx:latest
-semitechnologies/weaviate:1.19.0
+ghcr.io/open-webui/open-webui:main
