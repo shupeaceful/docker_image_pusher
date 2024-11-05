@@ -1,1 +1,2 @@
-ollama/ollama:latest
+langgenius/dify-api:0.11.0
+langgenius/dify-web:0.11.0
