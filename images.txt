@@ -1,1 +1,1 @@
-python:3.10-slim
+jupyter/base-notebook:latest
