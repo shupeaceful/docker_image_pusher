@@ -1,7 +1,2 @@
 docker.io/milvusdb/milvus:v2.4.3
 docker.io/minio/minio:RELEASE.2023-03-20T20-16-18Z
-quay.io/coreos/etcd:v3.5.5
-milvusdb/milvus:v2.4.3
-ghcr.io/labring/fastgpt-sandbox:v4.8.15
-image: ghcr.io/labring/fastgpt:v4.8.15-fix2
-ghcr.io/songquanpeng/one-api:v0.6.7
