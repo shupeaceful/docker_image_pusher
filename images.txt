@@ -1,2 +1,1 @@
-ghcr.io/labring/fastgpt:v4.8.15-fix2
-ghcr.io/songquanpeng/one-api:v0.6.7
+infiniflow/ragflow:v0.15.1
