@@ -1,1 +1,1 @@
-xxnuo/mtranserver:latest
+elasticsearch:8.11.3
