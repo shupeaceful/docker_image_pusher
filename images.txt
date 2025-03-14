@@ -1,1 +1,1 @@
-docker.io/library/node:20-alpine
+infiniflow/ragflow:v0.17.2
