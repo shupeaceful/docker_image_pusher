@@ -1,1 +1,1 @@
-infiniflow/ragflow:v0.17.2
+tjbtech1/metachain:amd64_latest
