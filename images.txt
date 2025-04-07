@@ -1,1 +1,1 @@
-tjbtech1/metachain:amd64_latest
+node:18-slim
