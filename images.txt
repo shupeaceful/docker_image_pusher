@@ -1,1 +1,1 @@
-docker.io/library/node:22-slim
+docker.io/library/python:3.12
