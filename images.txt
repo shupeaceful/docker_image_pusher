@@ -1,1 +1,1 @@
-docker.io/library/python:3.12
+docker.io/library/node:23
