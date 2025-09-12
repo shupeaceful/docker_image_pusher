@@ -1,3 +1,2 @@
-cozedev/coze-studio-server:0.3.14.beta
-cozedev/coze-studio-web:0.0.3.beta
-
+cozedev/coze-studio-server:0.3.16
+cozedev/coze-studio-web:0.0.3
