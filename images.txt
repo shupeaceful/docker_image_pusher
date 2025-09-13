@@ -1,1 +1,1 @@
-dataease/sqlbot:latest
+dataease/sqlbot:v1.1.0
