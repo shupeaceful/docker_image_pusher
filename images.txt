@@ -1,2 +1,1 @@
-cozedev/coze-studio-server:0.3.16
-cozedev/coze-studio-web:0.0.3
+dataease/sqlbot:latest
