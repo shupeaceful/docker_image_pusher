@@ -1,1 +1,2 @@
-dataease/sqlbot:v1.1.0
+hhyo/archery:v1.12.0
+hanchuanchuan/goinception
