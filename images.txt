@@ -1,2 +1,1 @@
-hhyo/archery:v1.12.0
-hanchuanchuan/goinception
+pawsql/pawsql-ce:latest
