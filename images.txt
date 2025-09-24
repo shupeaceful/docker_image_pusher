@@ -1,1 +1,1 @@
-gcr.io/distroless/nodejs20-debian12：latest
+gcr.io/distroless/nodejs20-debian12:latest
