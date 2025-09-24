@@ -1,1 +1,1 @@
-pawsql/pawsql-ce:latest
+gcr.io/distroless/nodejs20-debian12：latest
