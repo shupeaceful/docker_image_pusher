@@ -1,1 +1,5 @@
-gcr.io/distroless/nodejs20-debian12:latest
+infiniflow/ragflow:v0.20.5
+hub.icert.top/opensearchproject/opensearch:2.19.1
+infiniflow/infinity:v0.6.0-dev5
+infiniflow/sandbox-executor-manager:latest
+quay.io/minio/minio:RELEASE.2025-06-13T11-33-47Z
