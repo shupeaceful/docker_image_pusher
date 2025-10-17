@@ -1,1 +1,1 @@
-drfccv/mcp-server-12306:latest
+docker.io/library/node:16
