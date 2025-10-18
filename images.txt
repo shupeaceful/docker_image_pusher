@@ -1,1 +1,1 @@
-docker.io/library/node:16
+ghcr.io/luler/gpt_vis_ssr:latest
