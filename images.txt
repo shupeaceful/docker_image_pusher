@@ -1,1 +1,3 @@
-ghcr.io/luler/gpt_vis_ssr:latest
+jaegertracing/all-in-one:latest
+paradedb/paradedb:latest
+redis:7.0-alpine
