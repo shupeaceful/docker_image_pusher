@@ -1,1 +1,1 @@
-docker.m.daocloud.io/library/maven:3.8-openjdk-17
+samanhappy/mcphub:latest-full
