@@ -1,3 +1,1 @@
-docker.io/library/alpine:3.17
-docker.io/library/golang:1.24-alpine
-docker.io/library/python:3.9-slim
+docker.m.daocloud.io/library/maven:3.8-openjdk-17
