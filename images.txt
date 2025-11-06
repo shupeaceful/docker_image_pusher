@@ -1,1 +1,2 @@
-mereith/langmanus-web:latest
+bettafish:latest
+postgres:15
