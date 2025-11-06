@@ -1,2 +1,2 @@
-bettafish:latest
+smanx/bettafish:latest
 postgres:15
