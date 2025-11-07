@@ -1,2 +1,1 @@
-smanx/bettafish:latest
-postgres:15
+ghcr.io/666ghj/bettafish:latest
