@@ -1,1 +1,3 @@
-ghcr.io/666ghj/bettafish:latest
+slcnx/fastgithub:latest
+nginx:latest
+slcnx/ubuntu:18.04
