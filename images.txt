@@ -1,3 +1,1 @@
-slcnx/fastgithub:latest
-nginx:latest
-slcnx/ubuntu:18.04
+ankane/pghero:latest
