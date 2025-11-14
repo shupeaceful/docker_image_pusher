@@ -1,1 +1,1 @@
-ankane/pghero:latest
+wantcat/trendradar:latest
