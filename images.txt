@@ -1,1 +1,1 @@
-wantcat/trendradar:latest
+ghcr.io/666ghj/bettafish:latest
