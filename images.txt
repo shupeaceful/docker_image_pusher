@@ -1,1 +1,10 @@
-ghcr.io/666ghj/bettafish:latest
+langgenius/dify-api:1.10.0
+langgenius/dify-web:1.10.0
+langgenius/dify-sandbox:0.2.12
+langgenius/dify-plugin-daemon:0.4.1-local
+semitechnologies/weaviate:1.27.0
+langgenius/qdrant:v1.7.3
+minio/minio:RELEASE.2023-03-20T20-16-18Z
+milvusdb/milvus:v2.5.15
+opensearchproject/opensearch:latest
+docker.elastic.co/elasticsearch/elasticsearch:8.14.3
