@@ -1,2 +1,1 @@
-dinkydocker/dinky-standalone-server:1.2.5-flink1.20
-dinkydocker/dinky-standalone-server:1.2.4-flink1.20
+briefercloud/briefer:latest
