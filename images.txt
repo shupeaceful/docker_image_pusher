@@ -1,1 +1,6 @@
-briefercloud/briefer:latest
+pgvector/pgvector:pg16
+briefercloud/briefer-api:latest
+briefercloud/briefer-jupyter:latest
+briefercloud/briefer-ai:latest
+briefercloud/briefer-web:latest
+nginx:1.27
