@@ -1,1 +1,2 @@
-infiniflow/ragflow:v0.22.1
+infiniflow/text-embeddings-inference:cpu-1.8
+infiniflow/text-embeddings-inference:1.8
