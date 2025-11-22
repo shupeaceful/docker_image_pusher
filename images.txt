@@ -1,1 +1,1 @@
-hdxin2002/ultrarag:v0.2.1
+infiniflow/ragflow:v0.22.1
