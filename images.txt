@@ -1,1 +1,1 @@
-valkey/valkey:8
+drfccv/deerflow-cn:latest
