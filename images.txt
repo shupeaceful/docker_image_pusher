@@ -1,1 +1,1 @@
-samanhappy/mcphub：0.11.0-full
+samanhappy/mcphub：0.11.0
