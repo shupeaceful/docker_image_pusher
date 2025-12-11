@@ -1,1 +1,1 @@
-lfnovo/open_notebook:v1-latest-single
+xxnuo/mtranserver:3.1.5
