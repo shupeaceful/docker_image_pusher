@@ -1,9 +1,3 @@
 wechatopenai/weknora-ui:latest
 wechatopenai/weknora-app:latest
 wechatopenai/weknora-docreader:latest
-paradedb/paradedb:v0.18.9-pg17
-redis:7.0-alpine
-minio/minio:latest
-jaegertracing/all-in-one:latest
-neo4j:latest
-qdrant/qdrant:v1.16.2
