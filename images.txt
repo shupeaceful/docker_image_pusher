@@ -1,1 +1,1 @@
-afcodehub/moltbot:latest
+moltbot/moltbot:latest
