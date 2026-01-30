@@ -1,3 +1,1 @@
-wechatopenai/weknora-ui:v0.2.13
-wechatopenai/weknora-app:v0.2.13
-wechatopenai/weknora-docreader:v0.2.13
+paradedb/paradedb:v0.21.4-pg17
