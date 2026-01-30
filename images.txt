@@ -1,1 +1,3 @@
-moltbot/moltbot:latest
+wechatopenai/weknora-ui:v0.2.13
+wechatopenai/weknora-app:v0.2.13
+wechatopenai/weknora-docreader:v0.2.13
