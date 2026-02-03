@@ -1,1 +1,1 @@
-paradedb/paradedb:v0.21.4-pg17
+docker.io/library/node:20.20.0-alpine
