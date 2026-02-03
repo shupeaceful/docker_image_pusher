@@ -1,1 +1,1 @@
-docker.io/library/node:20.20.0-alpine
+gcr.io/distroless/nodejs20-debian12:latest
