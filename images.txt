@@ -1,1 +1,1 @@
-samanhappy/mcphub:0.12.2
+wechatopenai/weknora-sandbox:latest
