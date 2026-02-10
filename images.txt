@@ -1,1 +1,3 @@
-wechatopenai/weknora-sandbox:latest
+wechatopenai/weknora-ui:v0.3.0
+wechatopenai/weknora-app:v0.3.0
+wechatopenai/weknora-docreader:v0.3.0
