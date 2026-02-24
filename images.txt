@@ -1,2 +1,1 @@
-enterprise-public-cn-beijing.cr.volces.com/vefaas-public/all-in-one-sandbox:latest
-nginx:alpine
+docker.io/library/node:22-alpine
