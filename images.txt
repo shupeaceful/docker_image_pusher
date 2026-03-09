@@ -1,1 +1,1 @@
-docker.io/library/node:22-bookworm
+ghcr.io/666ghj/mirofish:latest
