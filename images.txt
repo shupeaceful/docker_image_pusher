@@ -1,4 +1,1 @@
-wechatopenai/weknora-sandbox:v0.3.3
-wechatopenai/weknora-ui:v0.3.3
-wechatopenai/weknora-app:v0.3.3
-wechatopenai/weknora-docreader:v0.3.3
+ghcr.io/openclaw/openclaw:latest
