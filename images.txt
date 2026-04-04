@@ -1,1 +1,1 @@
-agentscope/copaw:latest
+ghcr.io/openclaw/openclaw:latest
