@@ -1,1 +1,1 @@
-searxng/searxng:latest
+docker.io/searxng/searxng:latest
