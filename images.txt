@@ -1,1 +1,1 @@
-ghcr.io/openclaw/openclaw:v2026.4.2
+searxng/searxng:latest
