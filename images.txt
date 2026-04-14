@@ -1,1 +1,1 @@
-ghcr.io/nesquena/hermes-webui:latest
+nousresearch/hermes-agent:v0.9.0
