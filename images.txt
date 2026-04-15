@@ -1,1 +1,1 @@
-ghcr.io/openclaw/openclaw:latest
+samanhappy/mcphub:0.12.12
