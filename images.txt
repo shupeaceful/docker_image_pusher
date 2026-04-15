@@ -1,1 +1,1 @@
-nousresearch/hermes-agent:latest
+ghcr.io/openclaw/openclaw:latest
