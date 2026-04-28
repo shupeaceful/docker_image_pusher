@@ -1,1 +1,1 @@
-ghcr.io/openclaw/openclaw:v2026.4.24
+ghcr.io/openclaw/openclaw:latest
