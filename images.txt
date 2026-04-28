@@ -1,1 +1,1 @@
-ekkoye8888/hermes-web-ui:latest
+agentscope/qwenpaw:latest
