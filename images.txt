@@ -1,1 +1,1 @@
-agentscope/qwenpaw:latest
+ghcr.io/openclaw/openclaw:v2026.4.26
