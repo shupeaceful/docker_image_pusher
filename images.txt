@@ -1,1 +1,1 @@
-zeroclawlabs/zeroclaw:latest
+nousresearch/hermes-agent:v0.12.0
