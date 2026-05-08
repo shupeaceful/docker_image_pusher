@@ -1,1 +1,1 @@
-oven/bun:1
+pgvector/pgvector:pg16
