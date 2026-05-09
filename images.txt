@@ -1,1 +1,1 @@
-ghcr.io/openclaw/openclaw:latest
+ekkoye8888/hermes-web-ui:v0.5.15
