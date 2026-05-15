@@ -1,1 +1,1 @@
-ghcr.io/hmbown/deepseek-tui:v0.8.37
+ekkoye8888/hermes-web-ui:v0.5.24
