@@ -1,1 +1,1 @@
-ekkoye8888/hermes-web-ui:0.5.34
+ekkoye8888/hermes-web-ui:0.5.35
