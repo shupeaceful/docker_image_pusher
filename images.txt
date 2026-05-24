@@ -1,1 +1,1 @@
-ghcr.io/hmbown/deepseek-tui:latest
+ghcr.io/hmbown/codewhale:v0.8.41
