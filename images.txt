@@ -1,1 +1,1 @@
-ghcr.io/hmbown/codewhale:v0.8.44
+ghcr.io/berriai/litellm:main-stable
