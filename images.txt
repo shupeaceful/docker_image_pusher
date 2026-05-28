@@ -1,1 +1,1 @@
-ghcr.io/berriai/litellm:main-stable
+ekkoye8888/hermes-web-ui:v0.6.3
