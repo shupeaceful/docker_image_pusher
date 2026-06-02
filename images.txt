@@ -1,1 +1,1 @@
-quay.io/docling-project/docling-serve:v2.96.1
+quay.io/docling-project/docling-serve:v2.90.1
