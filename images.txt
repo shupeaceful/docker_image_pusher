@@ -1,1 +1,1 @@
-ghcr.io/hkuds/deeptutor:latest
+ghcr.io/hmbown/codewhale:v0.8.49
