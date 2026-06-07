@@ -1,1 +1,1 @@
-ghcr.io/hmbown/codewhale:v0.8.49
+ekkoye8888/hermes-web-ui:v0.6.11
