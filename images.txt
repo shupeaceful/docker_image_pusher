@@ -1,1 +1,1 @@
-ekkoye8888/hermes-web-ui:v0.6.10
+samanhappy/mcphub:1.0.13
