@@ -1,1 +1,1 @@
-samanhappy/mcphub:1.0.13
+ghcr.io/hmbown/codewhale:v0.8.56
