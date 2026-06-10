@@ -1,1 +1,1 @@
-ghcr.io/hmbown/codewhale:v0.8.53
+ghcr.io/hmbown/codewhale:v0.8.54
