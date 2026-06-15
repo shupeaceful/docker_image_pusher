@@ -1,1 +1,1 @@
-ghcr.io/hmbown/codewhale:v0.8.54
+pulseio76/argusmind:latest
