@@ -1,1 +1,1 @@
-pulseio76/argusmind:latest
+ghcr.io/caviraoss/openmemory:latest
